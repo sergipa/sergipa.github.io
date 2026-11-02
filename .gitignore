@@ -1,0 +1,19 @@
+# Operating system files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local tooling, if any is ever added
+node_modules/
+_site/
+.jekyll-cache/
+.sass-cache/
+*.log
